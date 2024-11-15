@@ -4,8 +4,8 @@ Este repositorio reúne todas las diapositivas utilizadas en las ayudantías, or
 
 ## Materias
 
-- [Fundamentos de programación](./Fundamentos%20de%20programación)
-- [Programación orientada a objetos](./Programación%20orientada%20a%20objetos)
+- [Fundamentos de programación](./fundamentos_de_programacion/)
+- [Programación orientada a objetos](./programacion_orientada_a_objetos/)
 
 
 ## Contribuciones
